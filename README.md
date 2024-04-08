@@ -16,3 +16,10 @@
     * Granular data at the item level enables detailed analysis of specific price drivers
     * CPI is a vital macroeconomic indicator, aiding in monitoring inflation trends,
     facilitating policy decisions, and ensuring price stability.
+
+
+Key Findings:
+
+* It appears that the inflation rate for all four categories (food, clothing, housing, and other major spending categories) increased between 2014 and 2022. The rate of inflation for “Food and beverages” appears to be higher than the rate of inflation for the other three categories.
+
+* CPI usage appears to be higher in 2014 and 2015 than it was in later years. CPI usage fluctuates somewhat from year to year, but there is a general downward trend over time (up until 2019).
